@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ManagementSystem/!svn/ver/3/trunk/ManagementSystem/src
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ManagementSystem/!svn/ver/3/trunk/ManagementSystem/src/db.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ManagementSystem/!svn/ver/3/trunk/ManagementSystem/src/applicationContext.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ManagementSystem/!svn/ver/3/trunk/ManagementSystem/src/log4j.properties
+END
+springmvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ManagementSystem/!svn/ver/3/trunk/ManagementSystem/src/springmvc.xml
+END

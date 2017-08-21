@@ -1,0 +1,40 @@
+8
+
+dir
+3
+https://192.168.2.8/svn/ManagementSystem/trunk/ManagementSystem/WebContent/META-INF
+https://192.168.2.8/svn/ManagementSystem
+
+
+
+2017-08-20T13:35:56.016541Z
+3
+qiang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5bcdcf5a-1a69-dc4d-b327-fbbbfe26ae5c
+
+MANIFEST.MF
+file
+
+
+
+
+2017-08-21T10:26:24.170000Z
+b10f37c8bb1803d98c127a01d1a71cc5
+2017-08-20T13:35:56.016541Z
+3
+qiang
+

@@ -1,0 +1,79 @@
+8
+
+dir
+3
+https://192.168.2.8/svn/ManagementSystem/trunk/ManagementSystem/src
+https://192.168.2.8/svn/ManagementSystem
+
+
+
+2017-08-20T13:35:56.016541Z
+3
+qiang
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5bcdcf5a-1a69-dc4d-b327-fbbbfe26ae5c
+
+applicationContext.xml
+file
+
+
+
+
+2017-08-21T10:26:19.640000Z
+dda230b5be0c059f42169b79b12ef936
+2017-08-20T13:35:56.016541Z
+3
+qiang
+
+com
+dir
+
+db.properties
+file
+
+
+
+
+2017-08-21T10:26:19.633000Z
+bfa69988620668407f1de08609295a12
+2017-08-20T13:35:56.016541Z
+3
+qiang
+
+log4j.properties
+file
+
+
+
+
+2017-08-21T10:26:19.654000Z
+1dac93f0b64e3dfa34707660f8a3f771
+2017-08-20T13:35:56.016541Z
+3
+qiang
+
+springmvc.xml
+file
+
+
+
+
+2017-08-21T10:26:19.647000Z
+64bfa14efde63f4a123fc1fd1ed1bdcb
+2017-08-20T13:35:56.016541Z
+3
+qiang
+
